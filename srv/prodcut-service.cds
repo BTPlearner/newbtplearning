@@ -4,3 +4,4 @@ service productshop{
     entity Supplier as projection on my.Supplier
         
     }
+    
